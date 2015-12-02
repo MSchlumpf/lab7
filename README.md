@@ -5,7 +5,6 @@ Kutta's third order method has the coefficients
 <p align="center">
 <img src="stuffy_stuff/formula.png" width="200">
 </p>
-and consists out of two RK methods of order two and three. Both RK methods differ only in the weights *b_i*.
 
 We want to use this method to find a stationary solution to the nonlinear Schrödinger equation
 <p align="center">
