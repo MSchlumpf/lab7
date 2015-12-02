@@ -21,7 +21,7 @@ In order to find <img src="stuffy_stuff/nls3.png" width="30"> you have to insert
 <img src="stuffy_stuff/nls6.png" width="60"> we can find an analytic asymptotic expression for <img src="stuffy_stuff/nls3.png" width="30">. From the asymptotic expression we can generate initial conditions for the ODE integration.
 
 
-Write a program which implements both RK methods as stated above. Output the solution from both algorithms.
+Write a program which implements the RK methods above to solve for <img src="stuffy_stuff/nls3.png" width="30">.
 
 
 Note: The solution for this problem can also be obtained analytically as
